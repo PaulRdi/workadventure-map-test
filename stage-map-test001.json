@@ -83,12 +83,30 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":50,
          "firstgid":1,
-         "source":"tsx\/Room_Builder_32x32.tsx"
+         "image":"Tiles\/Room_Builder_32x32.png",
+         "imageheight":1632,
+         "imagewidth":1600,
+         "margin":0,
+         "name":"Room_Builder_32x32",
+         "spacing":0,
+         "tilecount":2550,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":2551,
-         "source":"tsx\/13_Conference_Hall_32x32.tsx"
+         "image":"Tiles\/13_Conference_Hall_32x32.png",
+         "imageheight":384,
+         "imagewidth":512,
+         "margin":0,
+         "name":"13_Conference_Hall_32x32",
+         "spacing":0,
+         "tilecount":192,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
