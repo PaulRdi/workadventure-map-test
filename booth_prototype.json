@@ -119,6 +119,19 @@
          "tilecount":192,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":50,
+         "firstgid":2743,
+         "image":"Tiles\/Room_Builder_32x32.png",
+         "imageheight":1632,
+         "imagewidth":1600,
+         "margin":0,
+         "name":"Room_Builder_32x32",
+         "spacing":0,
+         "tilecount":2550,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
