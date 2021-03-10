@@ -1353,12 +1353,30 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":6579,
-         "source":"tsx\/14_Basement_32x32.tsx"
+         "image":"Tiles\/14_Basement_32x32.png",
+         "imageheight":1600,
+         "imagewidth":512,
+         "margin":0,
+         "name":"14_Basement_32x32",
+         "spacing":0,
+         "tilecount":800,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":7379,
-         "source":"tsx\/5_Classroom_and_library_32x32.tsx"
+         "image":"Tiles\/5_Classroom_and_library_32x32.png",
+         "imageheight":1088,
+         "imagewidth":512,
+         "margin":0,
+         "name":"5_Classroom_and_library_32x32",
+         "spacing":0,
+         "tilecount":544,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":5,
