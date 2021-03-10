@@ -757,16 +757,34 @@
          "source":"tsx\/14_Basement_32x32.tsx"
         }, 
         {
+         "columns":12,
          "firstgid":4819,
-         "source":"tsx\/neuroforge_logo.tsx"
+         "image":"..\/..\/..\/Downloads\/neuroforge_logo.png",
+         "imageheight":96,
+         "imagewidth":384,
+         "margin":0,
+         "name":"neuroforge_logo",
+         "spacing":0,
+         "tilecount":36,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "firstgid":4855,
          "source":"tsx\/5_Classroom_and_library_32x32.tsx"
         }, 
         {
+         "columns":5,
          "firstgid":5399,
-         "source":"tsx\/neuroforgeAI.tsx"
+         "image":"Tiles\/neuroforgeAI.png",
+         "imageheight":96,
+         "imagewidth":191,
+         "margin":0,
+         "name":"neuroforgeAI",
+         "spacing":0,
+         "tilecount":15,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
