@@ -83,7 +83,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ufis.network\/test\/"
+                 "value":"https:\/\/ufis.network\/_template-aussteller\/"
                 }],
          "type":"tilelayer",
          "visible":true,
