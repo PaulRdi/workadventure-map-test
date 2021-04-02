@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/underground_prototype.json"
+                 "value":"underground_prototype.json"
                 }],
          "type":"tilelayer",
          "visible":true,
