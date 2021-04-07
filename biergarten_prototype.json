@@ -33,6 +33,12 @@
          "id":101,
          "name":"GotoUnderground",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"underground_prototype.json#BiergartenEntry"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":65,
