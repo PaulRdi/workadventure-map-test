@@ -102,7 +102,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.neuroforge.de"
+                 "value":"https:\/\/bonista.de"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -148,7 +148,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.neuroforge.de"
+                 "value":"https:\/\/ufis.network\/future-systems-gmbh\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -171,7 +171,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.neuroforge.de"
+                 "value":"https:\/\/ufis.network\/favendo\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -194,7 +194,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.neuroforge.de"
+                 "value":"https:\/\/ufis.network\/nuspace\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -217,7 +217,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.neuroforge.de"
+                 "value":"https:\/\/ufis.network\/bag2life\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -240,7 +240,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ufis.network\/test\/"
+                 "value":"https:\/\/ufis.network\/sensor-und-aktortechnik-hs-coburg\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -258,7 +258,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ufis.network\/test\/"
+                 "value":"https:\/\/ufis.network\/realquest\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -281,7 +281,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/digitalfabrik.space\/"
+                 "value":"https:\/\/ufis.digitalfabrik.space"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
