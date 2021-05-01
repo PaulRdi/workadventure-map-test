@@ -103,7 +103,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/ufis.network\/entrepreneurship-innovation-bayreuth\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -111,7 +111,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -134,7 +134,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -149,10 +149,15 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/ufis.network\/start-land-flow\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -167,7 +172,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/freiraumfuermacher.de\/smartes-fichtelgebirge\/"
+                 "value":"https:\/\/ufis.network\/smart-city-bamberg\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -175,7 +180,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -190,7 +195,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/ufis.network\/gruenderzentren-oberfranken\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -198,7 +203,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -221,7 +226,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -236,7 +241,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/ufis.network\/femme-space\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -244,7 +249,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -259,7 +264,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"www.startup.bayreuth.de"
+                 "value":"https:\/\/ufis.network\/bfm-bayreuth-startup-point-bayreuth\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -267,7 +272,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -282,7 +287,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/ufis.network\/autonomes-fahren-hs-coburg\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -290,7 +295,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -313,7 +318,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -336,7 +341,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -359,7 +364,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -382,7 +387,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -405,7 +410,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -428,7 +433,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -451,7 +456,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -474,7 +479,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -497,7 +502,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -509,7 +514,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -521,7 +526,7 @@
          "name":"Teppich",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -533,7 +538,7 @@
          "name":"Trashcan bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -545,7 +550,7 @@
          "name":"Stairs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -557,7 +562,7 @@
          "name":"Railing",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -569,7 +574,7 @@
          "name":"Stage",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -581,7 +586,7 @@
          "name":"walls side",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -593,7 +598,7 @@
          "name":"Floordeko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -605,7 +610,7 @@
          "name":"Plants",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -617,7 +622,7 @@
          "name":"Table bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -629,7 +634,7 @@
          "name":"Sofas",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -641,7 +646,7 @@
          "name":"Table",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -665,7 +670,7 @@
          "name":"stuff",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -677,7 +682,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -688,7 +693,7 @@
          "name":"Stagetops",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -700,7 +705,7 @@
          "name":"Walls top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -712,7 +717,7 @@
          "name":"Trashcan top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -724,7 +729,7 @@
          "name":"TableDeko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -736,7 +741,7 @@
          "name":"Walldeko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -748,7 +753,7 @@
          "name":"Planttops",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -760,7 +765,7 @@
          "name":"underConstruction",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
