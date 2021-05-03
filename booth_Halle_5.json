@@ -264,7 +264,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.if.digital\/"
+                 "value":"https:\/\/ufis.network\/if-digital\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
