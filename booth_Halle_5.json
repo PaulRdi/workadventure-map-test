@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"underground_prototype.json#5Entry"
+                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/expo#5Entry"
                 }],
          "type":"tilelayer",
          "visible":true,
