@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"underground_prototype.json#1Entry"
+                 "value":"underground_prototype.json#3Entry"
                 }],
          "type":"tilelayer",
          "visible":true,
