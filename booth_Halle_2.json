@@ -218,7 +218,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ufis.network\/simsala-bim"
+                 "value":"https:\/\/ufis.network\/simsalabim\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
