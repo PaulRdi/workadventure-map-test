@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/piazza#UndergroundEntry"
+                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/piazza#StagesEntry"
                 }],
          "type":"tilelayer",
          "visible":true,
