@@ -126,7 +126,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"biergarten_prototype.json#StairEntry"
+                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/piazza"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -162,7 +162,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"booth_Halle_1.json#StairEntry"
+                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/halle1#StairEntry"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -198,7 +198,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"booth_Halle_2.json#StairEntry"
+                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/halle2#StairEntry"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -234,7 +234,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"booth_Halle_3.json#StairEntry"
+                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/halle3#StairEntry"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -270,7 +270,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"booth_Halle_4.json#StairEntry"
+                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/halle4#StairEntry"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -306,7 +306,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"booth_Halle_5.json#StairEntry"
+                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/halle5#StairEntry"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -342,7 +342,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"booth_Halle_6.json#StairEntry"
+                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/halle6#StairEntry"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -378,7 +378,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"booth_Halle_7.json#StairEntry"
+                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/halle7#StairEntry"
                 }],
          "type":"tilelayer",
          "visible":true,
