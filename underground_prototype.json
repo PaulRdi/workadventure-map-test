@@ -162,7 +162,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/halle1#StairEntry"
+                 "value":"\/@\/ufis\/21\/halle1#StairEntry"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -198,7 +198,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/halle2#StairEntry"
+                 "value":"\/@\/ufis\/21\/halle2#StairEntry"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -234,7 +234,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/halle3#StairEntry"
+                 "value":"\/@\/ufis\/21\/halle3#StairEntry"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -270,7 +270,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/halle4#StairEntry"
+                 "value":"\/@\/ufis\/21\/halle4#StairEntry"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -306,7 +306,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/halle5#StairEntry"
+                 "value":"\/@\/ufis\/21\/halle5#StairEntry"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -342,7 +342,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/halle6#StairEntry"
+                 "value":"\/@\/ufis\/21\/halle6#StairEntry"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -378,7 +378,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/halle7#StairEntry"
+                 "value":"\/@\/ufis\/21\/halle7#StairEntry"
                 }],
          "type":"tilelayer",
          "visible":true,

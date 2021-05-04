@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/expo#3Entry"
+                 "value":"\/@\/ufis\/21\/expo#3Entry"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -556,7 +556,7 @@
          "name":"Stairs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -616,7 +616,7 @@
          "name":"Plants",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -699,7 +699,7 @@
          "name":"Stagetops",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -711,7 +711,7 @@
          "name":"Walls top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -723,7 +723,7 @@
          "name":"Trashcan top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -735,7 +735,7 @@
          "name":"TableDeko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -747,7 +747,7 @@
          "name":"Walldeko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -5403,40 +5403,121 @@
          "tilewidth":32
         }, 
         {
+         "columns":6,
          "firstgid":12829,
-         "source":"tsx\/1.tsx"
+         "image":"Tiles\/Logos\/1.png",
+         "imageheight":160,
+         "imagewidth":201,
+         "margin":0,
+         "name":"1",
+         "spacing":0,
+         "tilecount":30,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":5,
          "firstgid":12859,
-         "source":"tsx\/2.tsx"
+         "image":"Tiles\/Logos\/2.png",
+         "imageheight":160,
+         "imagewidth":160,
+         "margin":0,
+         "name":"2",
+         "spacing":0,
+         "tilecount":25,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":5,
          "firstgid":12884,
-         "source":"tsx\/3.tsx"
+         "image":"Tiles\/Logos\/3.png",
+         "imageheight":160,
+         "imagewidth":160,
+         "margin":0,
+         "name":"3",
+         "spacing":0,
+         "tilecount":25,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":5,
          "firstgid":12909,
-         "source":"tsx\/4.tsx"
+         "image":"Tiles\/Logos\/4.png",
+         "imageheight":160,
+         "imagewidth":160,
+         "margin":0,
+         "name":"4",
+         "spacing":0,
+         "tilecount":25,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":5,
          "firstgid":12934,
-         "source":"tsx\/5.tsx"
+         "image":"Tiles\/Logos\/5.png",
+         "imageheight":160,
+         "imagewidth":160,
+         "margin":0,
+         "name":"5",
+         "spacing":0,
+         "tilecount":25,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":5,
          "firstgid":12959,
-         "source":"tsx\/6.tsx"
+         "image":"Tiles\/Logos\/6.png",
+         "imageheight":160,
+         "imagewidth":160,
+         "margin":0,
+         "name":"6",
+         "spacing":0,
+         "tilecount":25,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":5,
          "firstgid":12984,
-         "source":"tsx\/7.tsx"
+         "image":"Tiles\/Logos\/7.png",
+         "imageheight":160,
+         "imagewidth":160,
+         "margin":0,
+         "name":"7",
+         "spacing":0,
+         "tilecount":25,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":5,
          "firstgid":13009,
-         "source":"tsx\/8.tsx"
+         "image":"Tiles\/Logos\/8.png",
+         "imageheight":81,
+         "imagewidth":160,
+         "margin":0,
+         "name":"8",
+         "spacing":0,
+         "tilecount":10,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":5,
          "firstgid":13019,
-         "source":"tsx\/9.tsx"
+         "image":"Tiles\/Logos\/9.png",
+         "imageheight":160,
+         "imagewidth":160,
+         "margin":0,
+         "name":"9",
+         "spacing":0,
+         "tilecount":25,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
