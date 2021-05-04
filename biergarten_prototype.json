@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/expo#BiergartenEntry"
+                 "value":"\/@\/ufis\/21\/expo#BiergartenEntry"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/stages"
+                 "value":"\/@\/ufis\/21\/stages"
                 }],
          "type":"tilelayer",
          "visible":true,
