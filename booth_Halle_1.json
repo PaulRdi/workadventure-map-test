@@ -213,7 +213,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/bytabo.de"
+                 "value":"https:\/\/bytabo.de\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
