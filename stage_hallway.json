@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/stage1"
+                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/stage1#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/stage2"
+                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/stage2#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,7 +145,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/stage3"
+                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/stage3#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -181,7 +181,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/stage4"
+                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/stage4#start"
                 }],
          "type":"tilelayer",
          "visible":true,
