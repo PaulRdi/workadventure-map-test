@@ -139,7 +139,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ufis.network\/test\/"
+                 "value":"https:\/\/ufis.network\/mapoverview_biergarten"
                 }],
          "type":"tilelayer",
          "visible":true,
