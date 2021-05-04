@@ -545,7 +545,7 @@
          "name":"Boden und W\u00e4nde",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
