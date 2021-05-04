@@ -305,7 +305,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ufis.digitalfabrik.space"
+                 "value":"https:\/\/digitalfabrik.space\/ufis\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
