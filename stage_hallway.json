@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/stage1#start"
+                 "value":"\/@\/ufis\/21\/stage1#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/stage2#start"
+                 "value":"\/@\/ufis\/21\/stage2#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,7 +145,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/stage3#start"
+                 "value":"\/@\/ufis\/21\/stage3#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -181,7 +181,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/stage4#start"
+                 "value":"\/@\/ufis\/21\/stage4#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -237,7 +237,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -249,7 +249,7 @@
          "name":"Teppich",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -5032,6 +5032,16 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {

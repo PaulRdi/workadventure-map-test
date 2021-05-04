@@ -126,7 +126,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/piazza#StairEntry"
+                 "value":"\/@\/ufis\/21\/piazza#StairEntry"
                 }],
          "type":"tilelayer",
          "visible":true,
