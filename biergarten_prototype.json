@@ -51,6 +51,12 @@
          "id":155,
          "name":"GotoStages",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/ufis\/21\/stages"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":69,
@@ -118,7 +124,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":69,
          "x":0,
          "y":0
@@ -604,7 +610,7 @@
          "name":"Boden und W\u00e4nde",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":69,
          "x":0,
          "y":0
@@ -616,7 +622,7 @@
          "name":"W\u00e4nde_Leiste",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":69,
          "x":0,
          "y":0
@@ -628,7 +634,7 @@
          "name":"Teppich1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":69,
          "x":0,
          "y":0
@@ -676,7 +682,7 @@
          "name":"WandDeko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":69,
          "x":0,
          "y":0
