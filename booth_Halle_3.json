@@ -550,7 +550,7 @@
          "name":"Stairs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -610,7 +610,7 @@
          "name":"Plants",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -693,7 +693,7 @@
          "name":"Stagetops",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -705,7 +705,7 @@
          "name":"Walls top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -717,7 +717,7 @@
          "name":"Trashcan top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -729,7 +729,7 @@
          "name":"TableDeko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -741,7 +741,7 @@
          "name":"Walldeko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
