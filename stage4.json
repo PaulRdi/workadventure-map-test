@@ -71,7 +71,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openUrl",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/JWwdsVZk_eQ"
                 }],
