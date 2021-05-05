@@ -205,7 +205,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ufis.network\/foodForchheim"
+                 "value":"https:\/\/ufis.network\/foodforchheim"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -223,7 +223,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ufis.network\/foodLichtenfels"
+                 "value":"https:\/\/ufis.network\/foodlichtenfels"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -241,7 +241,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ufis.network\/foodKulmbach"
+                 "value":"https:\/\/ufis.network\/foodkulmbach"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -259,7 +259,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ufis.network\/foodKronach"
+                 "value":"https:\/\/ufis.network\/foodkronach"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -277,7 +277,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ufis.network\/foodBayreuth"
+                 "value":"https:\/\/ufis.network\/foodbayreuth"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -295,7 +295,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ufis.network\/foodBamberg"
+                 "value":"https:\/\/ufis.network\/foodbamberg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -313,7 +313,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ufis.network\/foodCoburg"
+                 "value":"https:\/\/ufis.network\/foodcoburg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -331,7 +331,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ufis.network\/foodHof"
+                 "value":"https:\/\/ufis.network\/foodhof"
                 }],
          "type":"tilelayer",
          "visible":true,
