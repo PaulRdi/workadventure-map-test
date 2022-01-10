@@ -71,6 +71,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"iframeAttributes",
+                 "type":"string",
+                 "value":"allow=\"camera;microphone\""
+                }, 
+                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/jam.systems\/wjbz14"
