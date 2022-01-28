@@ -396,7 +396,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ufis\/21\/stage_hallway"
+                 "value":"\/@\/ufis\/21\/stages"
                 }],
          "type":"tilelayer",
          "visible":true,
