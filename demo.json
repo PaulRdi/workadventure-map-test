@@ -206,7 +206,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"camera,  microphone"
+                 "value":"camera; microphone"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
