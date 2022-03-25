@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"www.ufis.network"
+                 "value":"ufis.network"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
