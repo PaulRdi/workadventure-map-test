@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/youtu.be\/AWL8w_zQo2o"
+                 "value":"youtu.be\/AWL8w_zQo2o"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.ufis.network"
+                 "value":"www.ufis.network"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
