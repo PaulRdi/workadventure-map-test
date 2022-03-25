@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"ufis.network"
+                 "value":"https:\/\/ufis.network"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
