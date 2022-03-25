@@ -105,6 +105,12 @@
          "id":111,
          "name":"Link Video 3",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/youtu.be\/AWL8w_zQo2o"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":62,
@@ -122,6 +128,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.ufis.network"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
