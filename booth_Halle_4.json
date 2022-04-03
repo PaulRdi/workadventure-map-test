@@ -133,7 +133,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ufis\/21\/halle5#4Entry"
+                 "value":"\/@\/ufis\/21\/halle3#4Entry"
                 }],
          "type":"tilelayer",
          "visible":true,
