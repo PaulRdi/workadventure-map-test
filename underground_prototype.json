@@ -417,7 +417,7 @@
                  "value":"https:\/\/ufis.network\/cocktails"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":84,
          "x":0,
          "y":0
