@@ -157,7 +157,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.dacor.io"
+                 "value":"https:\/\/woroom.de\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -180,7 +180,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"ansbach.media-lab.de"
+                 "value":"https:\/\/ansbach.media-lab.de"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -203,7 +203,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"www.startup.bayreuth.de"
+                 "value":"https:\/\/www.bayreuth.de\/wirtschaft-forschung\/start-up-point-bayreuth\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -318,7 +318,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/emergo-entertainment.de\/ufis"
+                 "value":"https:\/\/www.emergo-entertainment.de\/visualisierung\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
