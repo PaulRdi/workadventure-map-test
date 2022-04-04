@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/ufis\/21\/expo#1Entry"
+                 "value":"\/@\/ufis\/21\/expo#6Entry"
                 }],
          "type":"tilelayer",
          "visible":true,
