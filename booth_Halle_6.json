@@ -514,7 +514,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"booth3"
+                 "value":"https:\/\/dev.if.digital\/leistungen\/content\/die-backina-story\/"
                 }, 
                 {
                  "name":"jitsiTrigger",
