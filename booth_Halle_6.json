@@ -226,7 +226,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.prelead.de"
+                 "value":"https:\/\/ufis.prelead.de"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
