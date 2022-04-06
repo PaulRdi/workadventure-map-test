@@ -302,7 +302,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":" https:\/\/www.instagram.com\/gruenderuni_bayreuth\/"
+                 "value":"https:\/\/www.iei.uni-bayreuth.de\/de\/index.html"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -5617,7 +5617,7 @@
          "margin":0,
          "name":"Logos_Stand_IZK",
          "spacing":0,
-         "tilecount":25,
+         "tilecount":16,
          "tileheight":32,
          "tilewidth":32
         }],
