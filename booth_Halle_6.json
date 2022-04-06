@@ -157,7 +157,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/ufis.network\/support-for-ukraine\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
