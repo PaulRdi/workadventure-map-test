@@ -226,7 +226,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.prelead.de"
+                 "value":"https:\/\/www.prelead.de"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -295,7 +295,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/dev.if.digital\/leistungen\/content\/die-backina-story\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
