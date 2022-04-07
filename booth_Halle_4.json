@@ -412,7 +412,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"booth7"
+                 "value":"booth4_7"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -435,7 +435,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"booth8"
+                 "value":"booth4_8"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -458,7 +458,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"booth9"
+                 "value":"booth4_9"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -481,7 +481,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"booth5"
+                 "value":"booth4_5"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -504,7 +504,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"booth4"
+                 "value":"booth4_4"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -527,7 +527,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"booth6"
+                 "value":"booth4_6"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -550,7 +550,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"booth3"
+                 "value":"booth4_3"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -573,7 +573,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"booth2"
+                 "value":"booth4_2"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -596,7 +596,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"booth1"
+                 "value":"booth4_1"
                 }, 
                 {
                  "name":"jitsiTrigger",

@@ -376,7 +376,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"booth7"
+                 "value":"booth6_7"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -399,7 +399,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"booth8"
+                 "value":"booth6_8"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -422,7 +422,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"booth9"
+                 "value":"booth6_9"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -445,7 +445,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"booth5"
+                 "value":"booth6_6"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -468,7 +468,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"booth4"
+                 "value":"booth6_5"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -491,7 +491,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"booth6"
+                 "value":"booth6_4"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -514,7 +514,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/dev.if.digital\/leistungen\/content\/die-backina-story\/"
+                 "value":"booth6_3"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -537,7 +537,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"booth2"
+                 "value":"booth6_2"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -560,7 +560,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"booth1"
+                 "value":"booth6_1"
                 }, 
                 {
                  "name":"jitsiTrigger",
