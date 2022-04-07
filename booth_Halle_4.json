@@ -354,7 +354,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.hs-coburg.de\/"
+                 "value":"https:\/\/www.hs-coburg.de\/informationen-fuer\/unternehmen.html"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
